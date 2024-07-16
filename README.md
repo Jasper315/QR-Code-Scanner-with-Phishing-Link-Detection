@@ -14,4 +14,4 @@
 - [API_Screenshot]: A screenshot of our API gateway POST request page
 
 ## HTML Prototype
-- [qr-phish-checker.zip]: A zip folder of our HTML prototype
+- [qr-phish-checker.zip]: A folder of our HTML prototype
